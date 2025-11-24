@@ -33,3 +33,6 @@ Addictive X mini-app – truth wins clout.
 - MIT License – Fork & profit!
 
 @xai @grok @elonmusk – Official collab? This prints virality. ⚔️
+X-Debates
+Grok AI 1v1 debate app for X – pills, badges, fact-checks, leaderboard. Built for virality.
+grok   xai   debate   realtime   webapp
